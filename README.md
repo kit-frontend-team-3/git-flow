@@ -19,10 +19,10 @@
     - css
     - js
     - pages
-     + home.html
-     + login.html
-     + orange.html
-     + porter.html
+      + home.html
+      + login.html
+      + orange.html
+      + porter.html
     - index.html
 
 ## 사용한 기술 스택 및 라이브러리
